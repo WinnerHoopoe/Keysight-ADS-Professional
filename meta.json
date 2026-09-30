@@ -1,0 +1,26 @@
+{
+  "repo": "keysight-ads-professional",
+  "product": "Keysight ADS Professional",
+  "kind": "cad",
+  "install_type": "zentool",
+  "install_url": "https://zentool.art/",
+  "batch": "zaliv-part2",
+  "format": "license-md-zentool-v1-no-banner",
+  "category": "engineering-cad",
+  "topics": [
+    "keysight-ads-professional",
+    "keysight-desktop",
+    "keysight-windows",
+    "2d-drafting",
+    "3d-modeling",
+    "technical-drawings",
+    "parametric-design",
+    "engineering-desktop",
+    "architecture-drafting",
+    "mechanical-design",
+    "desktop-cad",
+    "windows-cad",
+    "blueprint-design"
+  ],
+  "site": "zentool.art"
+}
